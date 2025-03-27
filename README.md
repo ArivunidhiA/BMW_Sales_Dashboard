@@ -23,10 +23,10 @@ This report allows users to:
 
 ## 📸 Preview
 ### Dashboard Overview
-![Dashboard Screenshot](Screenshot%202025-03-27%20at%2012.41.11%20PM.png)
+![Dashboard Screenshot](11.png)
 
 ### Model Drill-Down Page
-![Model Details Screenshot](Screenshot%202025-03-27%20at%2012.41.18%20PM.png)
+![Model Details Screenshot](12.png)
 
 ## 📂 Files Included
 - `BMW_Tutorial.pbix` – Full Power BI report file
