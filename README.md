@@ -51,5 +51,3 @@ This report allows users to:
 - Dashboard interactivity and navigation logic
 
 ---
-
-> ⚠️ *This dashboard was created using mock/tutorial data for educational purposes only. It is safe for public sharing and use in resumes or portfolios.*
